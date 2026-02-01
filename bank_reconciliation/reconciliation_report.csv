@@ -1,0 +1,7 @@
+Transaction ID,Status,Remarks
+TXN1001,MATCHED,Matched successfully
+TXN1004,MATCHED,Matched successfully
+TXN1005,MATCHED,Matched successfully
+TXN1002,AMOUNT_MISMATCH,Amount differs
+TXN1006,MISSING_IN_INTERNAL,Not found in internal records
+TXN1003,MISSING_IN_BANK,Not found in bank statement
